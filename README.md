@@ -1,4 +1,4 @@
-# Tic-Tac-Toe-Steedley
+# Tic-Tac-Toe-Steedley/Seno/Le
 #Gui
 from tkinter import *
 
@@ -71,3 +71,4 @@ tk.mainloop()
     #- Which is a window with a little bar and other decoration provided by the window manager. The root widget has to be created before #any other widgets and there can only be one root widget.
 
 #4:Next make a name/title foryour game simply using tk.title("")
+CODING BY DJ Oamen
