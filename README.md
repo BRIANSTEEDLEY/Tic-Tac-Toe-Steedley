@@ -59,3 +59,15 @@ button9 = Button(tk , text=" ",font=('Times 20 bold'), height = 5, width = 9, co
 button9.grid(row = 3, column = 2, sticky = S+N+E+W)
 
 tk.mainloop()
+
+
+#1: Use the code from tkinter import*
+   # - The tkinter module contains the tk toolkit
+
+#2: Use the code import tkinter.messagebox
+   # - This simply opens a meesage box with whatever you code into it
+
+#3: Next you have to create a tk = Tk() root widget
+    #- Which is a window with a little bar and other decoration provided by the window manager. The root widget has to be created before #any other widgets and there can only be one root widget.
+
+#4:Next make a name/title foryour game simply using tk.title("")
